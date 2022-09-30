@@ -1,11 +1,20 @@
 # Desarrollador: Juan Pablo Aquila
-## Proyecto TESTING QA - ANALISIS Y CASOS DE PRUEBA - INFORME DE RESULTADOS.
 
-![image](https://github.com/jpaquila/jpaquila-react-libreria-aquila/blob/master/src/Assets/icono4.png)
+# VIDEO DE MUESTRA https://youtu.be/U75-KKTWr3I
 
-## Web Elegida: **https://aquilafotografia.com/**
-### **4 DOCUMENTOS ADJUNTOS**
 ## Linkedin: https://www.linkedin.com/in/jpaquila/
+
+### **TESTING QA MANUAL**
+#### -Jira
+#### -Postman
+#### -Preparación de muestreo
+#### -Realización de Casos de Pruebas
+#### -Informe de Resultados
+#### -Thymeleaf
+
+
+
+
 
 
 
