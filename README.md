@@ -12,6 +12,11 @@
 #### -Informe de Resultados
 #### -Thymeleaf
 
+## CAPTURAS DE PANTALLA
+
+![image](https://github.com/jpaquila/Testing-QA-Final-Project/blob/master/Aquila%20Juan%20Pablo%20-%20Proyecto%20Final%20Testing%20QA/TesterQA%20(1).png)
+![image](https://github.com/jpaquila/Testing-QA-Final-Project/blob/master/Aquila%20Juan%20Pablo%20-%20Proyecto%20Final%20Testing%20QA/TesterQA%20(2).png)
+![image](https://github.com/jpaquila/Testing-QA-Final-Project/blob/master/Aquila%20Juan%20Pablo%20-%20Proyecto%20Final%20Testing%20QA/TesterQA%20(3).png)
 
 
 
